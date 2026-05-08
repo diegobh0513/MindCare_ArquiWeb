@@ -79,3 +79,5 @@ Para mÃ¡s informaciÃ³n o inquietudes, contacta a: `info@mindcare.com`
 Hecho con â¤ï¸ por un equipo de estudiantes apasionados
 
 Actualización de documentación de la landing page MindCare.
+
+Se actualizó la descripción general del proyecto MindCare.
