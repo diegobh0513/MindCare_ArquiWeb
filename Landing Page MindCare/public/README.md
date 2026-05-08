@@ -81,3 +81,5 @@ Hecho con â¤ï¸ por un equipo de estudiantes apasionados
 Actualización de documentación de la landing page MindCare.
 
 Se actualizó la descripción general del proyecto MindCare.
+
+Se agregó una nota sobre la estructura del proyecto.
