@@ -154,3 +154,4 @@ document.addEventListener('DOMContentLoaded', () => {
     initCarousel();
     initTilt();
 });
+// Mejora menor para documentación de interacciones
