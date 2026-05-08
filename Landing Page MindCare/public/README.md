@@ -77,3 +77,5 @@ Para más información o inquietudes, contacta a: `info@mindcare.com`
 ---
 
 Hecho con ❤️ por un equipo de estudiantes apasionados
+
+Actualizaci�n de documentaci�n de la landing page MindCare.
