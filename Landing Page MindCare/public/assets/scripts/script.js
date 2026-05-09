@@ -80,7 +80,7 @@ function initCarousel() {
             const maxSlide = slides.length - perView;
             currentSlide = (currentSlide >= maxSlide) ? 0 : currentSlide + 1;
             render();
-        }, 5000); // 5 segundos para una lectura más cómoda
+        }, 3000); // 3 segundos para una lectura más cómoda
     }
 
     // Pausar cuando el usuario quiere leer una tarjeta específica
@@ -154,4 +154,4 @@ document.addEventListener('DOMContentLoaded', () => {
     initCarousel();
     initTilt();
 });
-// Mejora menor para documentaci�n de interacciones
+// Mejora menor para documentaci�n de interacciones
