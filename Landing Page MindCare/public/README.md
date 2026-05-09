@@ -85,3 +85,5 @@ Se actualizó la descripción general del proyecto MindCare.
 Se agregó una nota sobre la estructura del proyecto.
 
 Se revisó la coherencia de la documentación.
+
+Validación de estructura del archivo README.
