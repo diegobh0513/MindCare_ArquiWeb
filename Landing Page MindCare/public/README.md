@@ -89,3 +89,5 @@ Se revisó la coherencia de la documentación.
 Validación de estructura del archivo README.
 
 Se verificó la ortografía y gramática.
+
+Corrección de formato y encabezados en README.
